@@ -1,8 +1,9 @@
 package Task6;
 
-import Task6.ClassWithMethods.CreditCard;
-
 import java.util.Scanner;
+import Task6.ClassWithMethods;
+
+
 
 public class MainClass {
     public static void main(String[] args) {
