@@ -1,4 +1,5 @@
-package Task7;
+package Task7_2;
+
 import java.util.Random;
 
 public class FigureMainClass1 {
